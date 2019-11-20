@@ -10,3 +10,42 @@ body {
   margin: 0;
   min-height: 100%;
 }
+
+.color-display {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin: 0 auto;
+}
+.sliders {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.sliders input {
+  margin: 1rem;
+  border: 1px solid black;
+}
+
+h1 {
+  text-align: center;
+}
+
+.color-display {
+  display: flex;
+  justify-content: center;
+}
+.hsl-display {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+button {
+  padding: 1rem;
+  border-radius: 20px;
+}
+
+.button-holder {
+  text-align: center;
+  margin-top: 1rem;
+}
